@@ -1,0 +1,16 @@
+concatenation :Hello world
+Length of str1: :5
+Character at index 1 :H
+substring of str2(0-3) :wor
+Equals?str1 and str2:false
+Uppercase str1 :HELLO
+Square root of a:3.872983346207417
+a raised to b:3.8386319337358784E12
+Max of a and  b:15.0
+min of a and  b:10.7
+random number (0-1):0.8479184534738942
+random number (10-20):15.169345055961585
+random number (1-100):12.989717548011392
+cell of b:11.0
+floor of b:10.0
+round of b:11
