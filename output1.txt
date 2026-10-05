@@ -1,0 +1,9 @@
+Add two integers: 15
+Add three integers: 30
+Add two doubles: 14.8
+Name: Kartik, Age: 20
+Name: Kartik, Age: 18
+Name: Kartik, Age: 18
+Student s4 details (reference to s2):
+Name: Kartik, Age: 18
+PS C:\Users\coe.shirpur\.vscode\kartik nikam> 
